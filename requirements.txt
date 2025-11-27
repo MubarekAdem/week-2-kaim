@@ -1,0 +1,8 @@
+google-play-scraper
+pandas
+psycopg2-binary
+sqlalchemy
+nltk
+scikit-learn
+matplotlip
+seaborn
